@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://levelup.gitconnected.com/how-string-in-net-c-works-f1d69bfa30f5?sk=0f35a41a04bb4e508fd6dac17bd70ddf" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/how-string-in-net-c-works" />
 
 # How String In .NET C# Works
 ### All about String and its immutability in .NET C#
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*gEqW_sTiV3QwJOHYZbIQaA.jpeg">
+  <img src="https://static.wixstatic.com/media/488a99_5834b3e41a7e4355a7f54038e5227660~mv2.png/v1/fill/w_828,h_552,al_c,q_90,enc_auto/488a99_5834b3e41a7e4355a7f54038e5227660~mv2.png">
 </p>
 
 <br/>
@@ -53,4 +53,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://levelup.gitconnected.com/how-string-in-net-c-works-f1d69bfa30f5?sk=0f35a41a04bb4e508fd6dac17bd70ddf
+[Article]: https://www.developmentsimplyput.com/post/how-string-in-net-c-works
